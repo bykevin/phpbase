@@ -186,5 +186,5 @@ class Upload
 }
 
 $a = new Upload('img', 'myfile');
-$a->setSaveDir('./abcdd/');
+$a->setSaveDir('./imgs/');
 $a->upload();

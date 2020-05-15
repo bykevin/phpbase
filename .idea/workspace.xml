@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef6028fd-299d-4ba4-8404-285918c236d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/phpbase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/imgs/5ebbfe404919b.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/download.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/download.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/upload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploadClass.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/uploadClass.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件上传与下载.md" beforeDir="false" afterPath="$PROJECT_DIR$/knowledgePoint/文件上传与下载.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bmst9pTvF6H853bEYmFRYdORwY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\UPUPW_AP7.2_64\htdocs\phpbase\code" />
+      <recent name="D:\UPUPW_AP7.2_64\htdocs\phpbase\KnowledgePoint" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef6028fd-299d-4ba4-8404-285918c236d1" name="Default Changelist" comment="" />
+      <created>1589248814438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589248814438</updated>
+      <workItem from="1589248817953" duration="15242000" />
+      <workItem from="1589425553454" duration="2644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="36" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1589342162226">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="461" y="36" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1280.689@0.0.1280.689" timestamp="1589342162226" />
+    <state x="458" y="269" key="NewPhpFileDialog" timestamp="1589378505368">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="458" y="269" key="NewPhpFileDialog/0.0.1280.689@0.0.1280.689" timestamp="1589378505368" />
+    <state x="233" y="79" key="Vcs.Push.Dialog.v2" timestamp="1589535280436">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="79" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1589535280436" />
+    <state x="217" y="109" key="com.intellij.ide.util.TipDialog" timestamp="1589425622754">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="217" y="109" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1589425622754" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1589272169948">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1589272169948" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1589340550102">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1589340550102" />
+  </component>
+</project>
